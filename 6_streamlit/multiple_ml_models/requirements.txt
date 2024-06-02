@@ -1,0 +1,14 @@
+streamlit
+gunicorn
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+scikit-learn
+
+openpyxl
+gurobipy
+gurobipy-pandas
+gurobi-machinelearning
+
